@@ -1,0 +1,4 @@
+[14-May-2016 00:53:26 UTC] PHP Fatal error:  Class 'WC_Session' not found in /home/thib205a/public_html/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php on line 18
+[02-Jul-2016 19:00:25 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/thib205a/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-images.php on line 69
+[02-Jul-2016 19:03:56 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/thib205a/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-images.php on line 69
+[02-Jul-2016 19:09:29 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/thib205a/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-images.php on line 69

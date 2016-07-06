@@ -1,0 +1,1 @@
+[16-May-2016 23:58:16 UTC] WordPress database error Duplicate entry '2016-05-17' for key 'unique_date' for query INSERT INTO wp_statistics_visit (last_visit, last_counter, visit) VALUES ( '', '2016-05-17', 0) made by do_action_ref_array, call_user_func_array, wp_statistics_add_visit_event
